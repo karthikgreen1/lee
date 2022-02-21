@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mnm kbkjkjk , ,mmk;skksksksksk;a;aknc  c
+=======
+files chnge 
+>>>>>>> 52faf4af442e86b3980f82b09ff243f2af65a462
